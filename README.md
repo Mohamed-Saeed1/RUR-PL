@@ -1,1 +1,1 @@
-# SIC202-RUR-PL
+#RUR-PL
